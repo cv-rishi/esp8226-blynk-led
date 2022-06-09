@@ -6,6 +6,7 @@
 #include <BlynkSimpleEsp8266.h>
 
 
+
 char auth[] = BLYNK_AUTH_TOKEN; 
 char ssid[] = "";//Enter your WIFI name
 char pass[] = "";//Enter your WIFI password
